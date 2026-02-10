@@ -1,0 +1,14 @@
+C:\Users\RP\Desktop\Trabalho_SD_final\wavy_json\bin\Debug\net8.0\wavy_json.exe
+C:\Users\RP\Desktop\Trabalho_SD_final\wavy_json\bin\Debug\net8.0\wavy_json.deps.json
+C:\Users\RP\Desktop\Trabalho_SD_final\wavy_json\bin\Debug\net8.0\wavy_json.runtimeconfig.json
+C:\Users\RP\Desktop\Trabalho_SD_final\wavy_json\bin\Debug\net8.0\wavy_json.dll
+C:\Users\RP\Desktop\Trabalho_SD_final\wavy_json\bin\Debug\net8.0\wavy_json.pdb
+C:\Users\RP\Desktop\Trabalho_SD_final\wavy_json\obj\Debug\net8.0\wavy_json.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RP\Desktop\Trabalho_SD_final\wavy_json\obj\Debug\net8.0\wavy_json.AssemblyInfoInputs.cache
+C:\Users\RP\Desktop\Trabalho_SD_final\wavy_json\obj\Debug\net8.0\wavy_json.AssemblyInfo.cs
+C:\Users\RP\Desktop\Trabalho_SD_final\wavy_json\obj\Debug\net8.0\wavy_json.csproj.CoreCompileInputs.cache
+C:\Users\RP\Desktop\Trabalho_SD_final\wavy_json\obj\Debug\net8.0\wavy_json.dll
+C:\Users\RP\Desktop\Trabalho_SD_final\wavy_json\obj\Debug\net8.0\refint\wavy_json.dll
+C:\Users\RP\Desktop\Trabalho_SD_final\wavy_json\obj\Debug\net8.0\wavy_json.pdb
+C:\Users\RP\Desktop\Trabalho_SD_final\wavy_json\obj\Debug\net8.0\wavy_json.genruntimeconfig.cache
+C:\Users\RP\Desktop\Trabalho_SD_final\wavy_json\obj\Debug\net8.0\ref\wavy_json.dll

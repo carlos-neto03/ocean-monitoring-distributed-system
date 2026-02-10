@@ -1,0 +1,14 @@
+C:\Users\RP\Desktop\Trabalho_SD_final\wavy_txt\bin\Debug\net8.0\wavy_teste.exe
+C:\Users\RP\Desktop\Trabalho_SD_final\wavy_txt\bin\Debug\net8.0\wavy_teste.deps.json
+C:\Users\RP\Desktop\Trabalho_SD_final\wavy_txt\bin\Debug\net8.0\wavy_teste.runtimeconfig.json
+C:\Users\RP\Desktop\Trabalho_SD_final\wavy_txt\bin\Debug\net8.0\wavy_teste.dll
+C:\Users\RP\Desktop\Trabalho_SD_final\wavy_txt\bin\Debug\net8.0\wavy_teste.pdb
+C:\Users\RP\Desktop\Trabalho_SD_final\wavy_txt\obj\Debug\net8.0\wavy_teste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RP\Desktop\Trabalho_SD_final\wavy_txt\obj\Debug\net8.0\wavy_teste.AssemblyInfoInputs.cache
+C:\Users\RP\Desktop\Trabalho_SD_final\wavy_txt\obj\Debug\net8.0\wavy_teste.AssemblyInfo.cs
+C:\Users\RP\Desktop\Trabalho_SD_final\wavy_txt\obj\Debug\net8.0\wavy_teste.csproj.CoreCompileInputs.cache
+C:\Users\RP\Desktop\Trabalho_SD_final\wavy_txt\obj\Debug\net8.0\wavy_teste.dll
+C:\Users\RP\Desktop\Trabalho_SD_final\wavy_txt\obj\Debug\net8.0\refint\wavy_teste.dll
+C:\Users\RP\Desktop\Trabalho_SD_final\wavy_txt\obj\Debug\net8.0\wavy_teste.pdb
+C:\Users\RP\Desktop\Trabalho_SD_final\wavy_txt\obj\Debug\net8.0\wavy_teste.genruntimeconfig.cache
+C:\Users\RP\Desktop\Trabalho_SD_final\wavy_txt\obj\Debug\net8.0\ref\wavy_teste.dll

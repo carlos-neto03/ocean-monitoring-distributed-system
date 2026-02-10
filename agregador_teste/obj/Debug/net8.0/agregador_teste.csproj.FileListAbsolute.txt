@@ -1,0 +1,14 @@
+C:\Users\RP\Desktop\Trabalho_SD_final\agregador_teste\bin\Debug\net8.0\agregador_teste.exe
+C:\Users\RP\Desktop\Trabalho_SD_final\agregador_teste\bin\Debug\net8.0\agregador_teste.deps.json
+C:\Users\RP\Desktop\Trabalho_SD_final\agregador_teste\bin\Debug\net8.0\agregador_teste.runtimeconfig.json
+C:\Users\RP\Desktop\Trabalho_SD_final\agregador_teste\bin\Debug\net8.0\agregador_teste.dll
+C:\Users\RP\Desktop\Trabalho_SD_final\agregador_teste\bin\Debug\net8.0\agregador_teste.pdb
+C:\Users\RP\Desktop\Trabalho_SD_final\agregador_teste\obj\Debug\net8.0\agregador_teste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RP\Desktop\Trabalho_SD_final\agregador_teste\obj\Debug\net8.0\agregador_teste.AssemblyInfoInputs.cache
+C:\Users\RP\Desktop\Trabalho_SD_final\agregador_teste\obj\Debug\net8.0\agregador_teste.AssemblyInfo.cs
+C:\Users\RP\Desktop\Trabalho_SD_final\agregador_teste\obj\Debug\net8.0\agregador_teste.csproj.CoreCompileInputs.cache
+C:\Users\RP\Desktop\Trabalho_SD_final\agregador_teste\obj\Debug\net8.0\agregador_teste.dll
+C:\Users\RP\Desktop\Trabalho_SD_final\agregador_teste\obj\Debug\net8.0\refint\agregador_teste.dll
+C:\Users\RP\Desktop\Trabalho_SD_final\agregador_teste\obj\Debug\net8.0\agregador_teste.pdb
+C:\Users\RP\Desktop\Trabalho_SD_final\agregador_teste\obj\Debug\net8.0\agregador_teste.genruntimeconfig.cache
+C:\Users\RP\Desktop\Trabalho_SD_final\agregador_teste\obj\Debug\net8.0\ref\agregador_teste.dll
